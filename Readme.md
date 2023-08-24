@@ -1,0 +1,1 @@
+Simple Go app which does some backgroung long task and handles the SIGTERM signal. Made for testing purposes
